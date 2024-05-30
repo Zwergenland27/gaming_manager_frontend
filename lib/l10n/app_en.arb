@@ -1,6 +1,36 @@
 {
-  "helloWorld": "Hello World!",
-  "@helloWorld": {
-    "description": "The conventional newborn programmer greeting"
+  "welcomeBack": "Welcome back!",
+  "@welcomeBack": {
+    "description": "Title of the splash screen that appears when the user returns to the app after a period of inactivity."
+  },
+  "loginExplanation": "Log in to your account",
+  "@loginExplanation": {
+    "description": "Explanation of why the user is being asked to log in."
+  },
+  "emailOrUsername": "Email or username",
+  "@emailOrUsername": {
+    "description": "Hint for the field where the user can enter their email address or username."
+  },
+  "email": "Email",
+  "username": "Username",
+  "firstname": "First name",
+  "lastname": "Last name",
+  "password": "Password",
+  "repeatPassword": "Repeat password",
+  "login": "Log in",
+  "forgotPassword": "Forgot your password?",
+  "@forgotPassword": {
+    "description": "Text that the user can click if they have forgotten their password."
+  },
+  "noAccount": "Don't have an account?",
+  "hasAccount": "Already have an account?",
+  "registerHere": "Register",
+  "@registerHere": {
+    "description": "Text that the user can click to register for an account."
+  },
+  "register": "Register",
+  "registerExplanation": "Create an account",
+  "@registerExplanation": {
+    "description": "Explanation of why the user is being asked to register."
   }
 }

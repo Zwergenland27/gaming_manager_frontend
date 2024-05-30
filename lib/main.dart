@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:gaming_manager_frontend/pages/login_page.dart';
 import 'package:gaming_manager_frontend/theme/theme_constants.dart';
 import 'package:gaming_manager_frontend/theme/theme_manager.dart';
 
@@ -20,7 +21,7 @@ class MyApp extends StatelessWidget {
       title: "Gaming Manager",
       localizationsDelegates: AppLocalizations.localizationsDelegates,
       supportedLocales: AppLocalizations.supportedLocales,
-      //home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const LoginPage(),
     );
   }
 }

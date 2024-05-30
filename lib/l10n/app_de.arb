@@ -1,3 +1,18 @@
 {
-  "helloWorld": "Hallo Welt!"
+  "welcomeBack": "Willkommen zurück!",
+  "loginExplanation": "Melde dich zuerst an",
+  "emailOrUsername": "E-Mail oder Benutzername",
+  "email": "E-Mail",
+  "username": "Nutzername",
+  "firstname": "Vorname",
+  "lastname": "Nachname",
+  "password": "Passwort",
+  "repeatPassword": "Passwort wiederholen",
+  "login": "Anmelden",
+  "forgotPassword": "Passwort vergessen?",
+  "noAccount": "Noch keinen Account?",
+  "hasAccount": "Bereits einen Account?",
+  "registerHere": "Registrieren",
+  "register": "Registrieren",
+  "registerExplanation": "Neuen Account erstellen"
 }
